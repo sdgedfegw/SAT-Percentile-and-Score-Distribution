@@ -8,5 +8,6 @@ List of acronyms used:
 * C.Percentile: Calculated high-precision percentile from score distributions
 * 1600: SAT Composite Math and Verbal (pre 2006 changes), Composite Math and Critical Reading (2006-2015), Composite Math and Reading and Writing (post 2016 changes)
 * 2400: SAT Composite Math, Critical Reading and Writing (2006-2015)
+Download link (somehow can't commit files to repository): https://mega.nz/file/sdoERLJC#tr4paqPjW8w34dQlEkWRSdNmfl7lX9D3oJSlfDJ50_I
 
 
